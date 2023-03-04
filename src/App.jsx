@@ -3,7 +3,7 @@ import { Formik, Form } from 'formik';
 import { Box, Button, CssBaseline } from '@mui/material';
 import * as Yup from 'yup';
 
-import Input from './input';
+import Input from './Input';
 
 function App() {
   return (
